@@ -78,6 +78,9 @@ Conduct regional or per-capita comparisons
 
 Explore descriptive modeling or trend analysis
 
+## Project Link
+https://github.com/imindia12/Homelessness-Housing-Capacity-EDA/blob/main/Homelessness%20Housing%20Capacity%20in%20the%20U.S.%20(2024).pdf
+
 ## Author
 
 India Flores
